@@ -1,7 +1,7 @@
 name: vanke_boxing_images
-description: A Flutter widget for test flutter plugins.
+description: A flutter widget for test flutter plugins.
 version: 0.0.1
-homepage:
+homepage: https://github.com/LeventLei/vanke_boxing_images.git
 
 environment:
   sdk: '>=2.18.0-271.7.beta <3.0.0'
